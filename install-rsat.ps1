@@ -1,4 +1,4 @@
-#Requires -RunAsAdministrator
+
 
 $web = Invoke-WebRequest https://www.microsoft.com/en-us/download/confirmation.aspx?id=45520 -UseBasicParsing
 
